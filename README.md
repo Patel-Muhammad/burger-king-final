@@ -8,7 +8,7 @@ You can view the demo of the Burger King landing page clone by following this li
 To use this project, simply clone this repository and open the index.html file in your browser. You can also access the demo by clicking on the link provided above.
 
 ## 👨‍🏫 Workshop Details
-The workshop was conducted by [insert your name here] and was aimed at teaching data science students how to build a responsive landing page clone using modern web development tools. The workshop covered the following topics:
+The workshop was conducted by Tech tribe club and was aimed at teaching data science students how to build a landing page clone using modern web development tools. The workshop covered the following topics:
 
 - HTML basics and semantic markup
 - CSS layout and styling
